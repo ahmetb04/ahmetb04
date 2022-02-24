@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmetb04
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on my NFT project
 - 📫 How to reach me: Twitter: @ahmetburak_eth
 
