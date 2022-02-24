@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on my NFT project
-- 📫 How to reach me ...
+- 📫 How to reach me: Twitter: @ahmetburak_eth
 
 <!---
 ahmetb04/ahmetb04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
